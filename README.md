@@ -1,4 +1,5 @@
 
+https://github.com/Abhishekpatil679/Sports-Person-Classification/assets/84315323/07b47847-0ef1-4915-bc36-7312ae47d0e1
 In this data science and machine learning project, we classify sports personalities. We restrict classification to only 5 people,
 1) Maria Sharapova
 2) Serena Williams
