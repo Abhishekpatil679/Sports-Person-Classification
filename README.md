@@ -1,3 +1,4 @@
+![image](https://github.com/Abhishekpatil679/Sports-Person-Classification/assets/84315323/4812b1f2-4d45-46ca-94fd-e735c1a140aa)
 
 https://github.com/Abhishekpatil679/Sports-Person-Classification/assets/84315323/07b47847-0ef1-4915-bc36-7312ae47d0e1
 In this data science and machine learning project, we classify sports personalities. We restrict classification to only 5 people,
